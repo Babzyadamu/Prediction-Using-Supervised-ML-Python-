@@ -23,5 +23,6 @@ The aim of this analysis is to answer the following business related questions:
 - seaborn
 - sklearn.model_selection 
 - sklearn.linear_model
+- sklearn.metrics
 
 
