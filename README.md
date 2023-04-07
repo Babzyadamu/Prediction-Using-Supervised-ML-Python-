@@ -25,4 +25,8 @@ The aim of this analysis is to answer the following business related questions:
 - sklearn.linear_model
 - sklearn.metrics
 
-
+## Loading the Dataset & Importing Required Libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
