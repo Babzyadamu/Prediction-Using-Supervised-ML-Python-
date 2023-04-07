@@ -1,4 +1,4 @@
-# Prediction-Using-Supervised-ML-Python-
+# Prediction-Using-Supervised-ML-Python
 ![](Predictive_Analytics.jpg)
 
 ## Introduction
@@ -25,8 +25,7 @@ The aim of this analysis is to answer the following business related questions:
 - sklearn.linear_model
 - sklearn.metrics
 
-## Loading the Dataset & Importing Required Libraries
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+## Conclusion 
+The predicted Score if a student studies for 9.25 hours/day is approximately 94%.
+
+## All Analysis are explained in details in the ipynb file.
