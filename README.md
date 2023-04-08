@@ -29,3 +29,5 @@ The aim of this analysis is to answer the following business related questions:
 The predicted Score if a student studies for 9.25 hours/day is approximately 94%.
 
 ## All Analysis are explained in details in the ipynb file.
+
+### [FOLLOW @ahmed adamu](https://www.linkedin.com/in/ahmed-adamu-0b63b9a5)
